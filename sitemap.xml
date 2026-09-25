@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://gselectric.md/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/"/>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/"/>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/about.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/about.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/projects.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/projects.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/projects.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/projects.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/projects.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/projects.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/projects.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/projects.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/cef-radeni.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/cef-radeni.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/cef-radeni.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/cef-radeni.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/cef-radeni.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/cef-radeni.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/cef-radeni.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/cef-radeni.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/investors.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/investors.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/investors.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/investors.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/investors.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/investors.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/investors.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/investors.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/partners.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/partners.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/partners.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/partners.html"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/partners.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/partners.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/partners.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/partners.html"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/news.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/news.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/news.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/news.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/news.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/news.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/news.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/news.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/contact.html"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/contact.html"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/privileged-information.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/privileged-information.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/privileged-information.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/privileged-information.html"/>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/privileged-information.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/privileged-information.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/privileged-information.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/privileged-information.html"/>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/privacy.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/privacy.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/legal.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/legal.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/legal.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/legal.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/news/cel-mai-mare-bess-din-moldova-inaugurat.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/news/cel-mai-mare-bess-din-moldova-inaugurat.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/news/moldovas-largest-bess-inaugurated.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/news/cel-mai-mare-bess-din-moldova-inaugurat.html"/>
+    <priority>0.6</priority>
+      <lastmod>2026-05-06</lastmod>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/news/moldovas-largest-bess-inaugurated.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/news/cel-mai-mare-bess-din-moldova-inaugurat.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/news/moldovas-largest-bess-inaugurated.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/news/cel-mai-mare-bess-din-moldova-inaugurat.html"/>
+    <priority>0.6</priority>
+      <lastmod>2026-05-06</lastmod>
+  </url>
+  <url>
+    <loc>https://gselectric.md/news/maib-finanteaza-cel-mai-mare-proiect-de-stocare.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/news/maib-finanteaza-cel-mai-mare-proiect-de-stocare.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/news/maib-finances-largest-storage-project.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/news/maib-finanteaza-cel-mai-mare-proiect-de-stocare.html"/>
+    <priority>0.6</priority>
+      <lastmod>2026-05-04</lastmod>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/news/maib-finances-largest-storage-project.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/news/maib-finanteaza-cel-mai-mare-proiect-de-stocare.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/news/maib-finances-largest-storage-project.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/news/maib-finanteaza-cel-mai-mare-proiect-de-stocare.html"/>
+    <priority>0.6</priority>
+      <lastmod>2026-05-04</lastmod>
+  </url>
+  <url>
+    <loc>https://gselectric.md/news/maib-sustine-inaugurarea-parcului-fotovoltaic-50-mw.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/news/maib-sustine-inaugurarea-parcului-fotovoltaic-50-mw.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/news/maib-supports-50-mw-photovoltaic-park.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/news/maib-sustine-inaugurarea-parcului-fotovoltaic-50-mw.html"/>
+    <priority>0.6</priority>
+      <lastmod>2025-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/news/maib-supports-50-mw-photovoltaic-park.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/news/maib-sustine-inaugurarea-parcului-fotovoltaic-50-mw.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/news/maib-supports-50-mw-photovoltaic-park.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/news/maib-sustine-inaugurarea-parcului-fotovoltaic-50-mw.html"/>
+    <priority>0.6</priority>
+      <lastmod>2025-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://gselectric.md/news/anre-acorda-licenta-de-producere.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/news/anre-acorda-licenta-de-producere.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/news/anre-grants-production-licence.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/news/anre-acorda-licenta-de-producere.html"/>
+    <priority>0.6</priority>
+      <lastmod>2025-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/news/anre-grants-production-licence.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/news/anre-acorda-licenta-de-producere.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/news/anre-grants-production-licence.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/news/anre-acorda-licenta-de-producere.html"/>
+    <priority>0.6</priority>
+      <lastmod>2025-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://gselectric.md/news/prima-licitatie-publica-de-energie-regenerabila-castigata.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/news/prima-licitatie-publica-de-energie-regenerabila-castigata.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/news/first-public-renewable-auction-won.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/news/prima-licitatie-publica-de-energie-regenerabila-castigata.html"/>
+    <priority>0.6</priority>
+      <lastmod>2025-03-31</lastmod>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/news/first-public-renewable-auction-won.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/news/prima-licitatie-publica-de-energie-regenerabila-castigata.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/news/first-public-renewable-auction-won.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/news/prima-licitatie-publica-de-energie-regenerabila-castigata.html"/>
+    <priority>0.6</priority>
+      <lastmod>2025-03-31</lastmod>
+  </url>
+  <url>
+    <loc>https://gselectric.md/careers.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/careers.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/careers.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/careers.html"/>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gselectric.md/en/careers.html</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://gselectric.md/careers.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gselectric.md/en/careers.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gselectric.md/careers.html"/>
+    <priority>0.6</priority>
+  </url>
+</urlset>

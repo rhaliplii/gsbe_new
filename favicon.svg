@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="GS Blue Electric favicon">
+  <rect width="512" height="512" rx="82" fill="#0755C9"/>
+  <path fill="#FFFFFF" d="M93 105c0-38 27-61 66-61h55c39 0 66 23 66 61v55h-72v-39c0-9-5-14-14-14h-20c-9 0-14 5-14 14v270c0 9 5 14 14 14h20c9 0 14-5 14-14v-92h-30v-65h102v171c0 38-27 63-66 63h-55c-39 0-66-25-66-63V105z"/>
+  <path fill="#FFFFFF" d="M286 105c0-38 27-61 66-61h43c39 0 66 23 66 61v67h-72v-51c0-9-5-14-14-14h-10c-9 0-14 5-14 14v68c0 14 5 22 18 31l52 36c29 20 42 44 42 79v70c0 38-27 63-66 63h-45c-39 0-66-25-66-63v-78h72v64c0 9 5 14 14 14h12c9 0 14-5 14-14v-69c0-14-6-22-19-31l-51-36c-29-20-42-44-42-79v-71z"/>
+  <path fill="#FFD400" stroke="#06439D" stroke-width="12" stroke-linejoin="miter"
+        d="M221 181l105 54-40 18 68 97-123-60 43-22-53-87z"/>
+</svg>
