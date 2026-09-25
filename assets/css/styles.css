@@ -416,7 +416,12 @@ button{font-family:inherit}
 .flag-compact .data-grid > div{padding:14px 16px}
 .flag-compact .flag-note{font-size:.92rem;margin-bottom:20px}
 .flag-compact .flag-tags{margin-bottom:24px!important}
-@media(min-width:1400px){.flag-compact .data-grid{grid-template-columns:repeat(4,1fr)}}
+.flag-compact .data-grid .n{white-space:nowrap}
+@media(min-width:1400px){
+  .flag-compact{grid-template-columns:1.3fr 1fr}
+  .flag-compact .data-grid{grid-template-columns:repeat(4,auto)}
+  .flag-compact .data-grid > div{padding:14px}
+}
 
 /* ---- data cell grid (mbox) ---- */
 .data-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;margin:36px 0;
