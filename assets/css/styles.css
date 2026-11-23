@@ -279,8 +279,8 @@ button{font-family:inherit}
 /* ============================================================
    PAGE HEADER (interior pages)
    ============================================================ */
-.page-head{background:var(--ink-deep);color:#fff;padding:calc(var(--nav-h) + clamp(60px,9vw,120px))
-  0 clamp(60px,8vw,110px);position:relative;overflow:hidden}
+.page-head{background:var(--ink-deep);color:#fff;padding:calc(var(--nav-h) + clamp(40px,6vw,80px))
+  0 clamp(48px,6vw,72px);position:relative;overflow:hidden}
 .page-head::before{content:"";position:absolute;top:-30%;right:-6%;width:520px;height:520px;
   background:radial-gradient(circle,rgba(30,79,230,.26),transparent 68%);filter:blur(12px)}
 .page-head .wrap{position:relative;z-index:2}
@@ -292,8 +292,9 @@ button{font-family:inherit}
 .crumbs li{display:flex;align-items:center;gap:10px;list-style:none}
 .crumbs li+li::before{content:"/";color:rgba(255,255,255,.3)}
 .crumbs [aria-current]{color:rgba(255,255,255,.5)}
-.page-head h1{margin:24px 0 24px;max-width:20ch;font-size:clamp(2.6rem,5.2vw,4.4rem)}
-.page-head .lead{color:var(--muted-d);max-width:62ch}
+.page-head h1{margin:20px 0 20px;max-width:22ch;font-size:clamp(2.2rem,4vw,3.4rem)}
+.page-head .lead{color:var(--muted-d);max-width:62ch;font-size:clamp(1rem,1.25vw,1.15rem)}
+.page-head + .section{padding-top:clamp(56px,7vw,96px)}
 
 /* ============================================================
    INTRO / GRIDS
