@@ -1,7 +1,7 @@
 /* ============================================================
    GS BLUE ELECTRIC — site behaviour
    nav · reveal · counters · gallery · map consent
-   Language is served from separate URLs (/ and /en/), so there is
+   Language is served from separate URLs (/ = EN, /ro/ = RO), so there is
    no client-side translation layer.
    ============================================================ */
 (function () {
