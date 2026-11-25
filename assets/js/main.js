@@ -16,7 +16,7 @@
   function onScroll() {
     if (!nav) return;
     if (!hasHero) { nav.classList.add('solid'); return; }
-    nav.classList.toggle('solid', window.scrollY > window.innerHeight * 0.72);
+    nav.classList.toggle('solid', window.scrollY > 40);
   }
 
   function markActiveNav() {
