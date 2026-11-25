@@ -258,17 +258,21 @@ button{font-family:inherit}
   animation:kb 22s ease-out forwards}
 @keyframes kb{from{transform:scale(1.12)}to{transform:scale(1)}}
 .hero-media::after{content:"";position:absolute;inset:0;
-  background:linear-gradient(180deg,rgba(5,11,22,.55) 0%,rgba(5,11,22,.15) 32%,
-  rgba(5,11,22,.35) 62%,rgba(5,11,22,.92) 100%)}
+  background:linear-gradient(180deg,rgba(5,11,22,.55) 0%,rgba(5,11,22,.24) 28%,
+  rgba(5,11,22,.38) 45%,rgba(5,11,22,.42) 62%,rgba(5,11,22,.92) 100%)}
 .hero-in{position:relative;z-index:2;width:100%;max-width:var(--maxw);margin:0 auto;
   padding:calc(var(--nav-h) + 22px) var(--pad) clamp(48px,7vw,96px)}
-.hero .eyebrow{color:#9fb8ff}
+.hero .eyebrow{color:#9fb8ff;font-weight:600;font-size:13px;letter-spacing:.24em;
+  text-shadow:0 1px 2px rgba(0,0,0,.6),0 0 22px rgba(5,11,22,.7)}
+.hero .eyebrow::before{width:34px;height:2px}
 .hero h1{margin:26px 0 30px;max-width:16ch;text-shadow:0 2px 40px rgba(0,0,0,.35)}
 .hero .lead{color:rgba(255,255,255,.86);max-width:56ch}
 .hero-actions{display:flex;align-items:center;gap:32px;flex-wrap:wrap;margin-top:40px}
 .hero-kpis{display:flex;flex-wrap:wrap;gap:22px clamp(30px,5vw,72px);
   margin-top:clamp(34px,4.5vw,54px);padding-top:26px;
   border-top:1px solid rgba(255,255,255,.22)}
+/* desktop: lift the headline block higher, KPIs stay anchored at the bottom */
+@media(min-width:821px){.hero-kpis{margin-top:clamp(110px,11vw,190px)}}
 .hero-kpis .n{font-family:var(--ff-mono);font-weight:600;letter-spacing:-.02em;line-height:1;
   font-size:clamp(1.45rem,2.4vw,2.1rem);display:flex;align-items:baseline;gap:7px;
   text-shadow:0 1px 20px rgba(0,0,0,.35)}
@@ -893,7 +897,7 @@ button{font-family:inherit}
   .hero h1{font-size:clamp(2.2rem,5.2vw,4.4rem);margin:20px 0 22px}
   .hero .lead{font-size:1.05rem}
   .hero-actions{margin-top:28px}
-  .hero-kpis{margin-top:28px;padding-top:20px;gap:16px clamp(26px,4vw,56px)}
+  .hero-kpis{margin-top:clamp(90px,13vh,120px);padding-top:20px;gap:16px clamp(26px,4vw,56px)}
   .hero-kpis .n{font-size:clamp(1.3rem,1.9vw,1.7rem)}
   .hero-in{padding-bottom:clamp(32px,4vw,56px)}
 }
